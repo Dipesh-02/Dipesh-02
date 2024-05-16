@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a student of computer science and information technology.
+I have a wide range of interests ranging from technology to electronics and gardening.
+
+
 <!--
 **Dipesh-02/Dipesh-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
